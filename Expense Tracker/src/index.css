@@ -1,0 +1,19 @@
+h1{
+  color:orange;
+  -webkit-text-stroke: 0.7px black;
+  text-align: center;
+  text-decoration: 1px solid underline;
+  text-transform: uppercase;
+  text-decoration-line: 2px;
+}
+form input{
+  margin-right: 5px;
+}
+
+button
+{
+  padding: 3px;
+  background-color:rgba(1,23,234,0.4);
+  border:1px solid black;
+  margin-left: 15px;
+}
